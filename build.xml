@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<project name="JLex" default="CompileLex">
+
+	<target name="CompileLex">
+		<taskdef classname="jflex.anttask.JFlexTask" name="jflex" classpath="jflex-1.6.1.jar" />
+		<jflex
+			file="src/sample.flex"
+			destdir="src/" />
+	</target>
+
+</project>
