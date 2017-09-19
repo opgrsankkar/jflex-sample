@@ -1,6 +1,6 @@
 # Sample JFlex Project
 ## Instructions
-### For Windows
+### For Windows (Eclipse)
 1. Download the following file [http://jflex.de/release/jflex-1.6.1.zip](http://jflex.de/release/jflex-1.6.1.zip "Download JFlex")
 
 2. Extract it. You will find a `jflex-1.6.1.jar` file inside the `lib` folder of the extracted file. Copy that jar file into your project folder.
